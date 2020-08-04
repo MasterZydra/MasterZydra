@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: [you@davidhein.de](mailto:you@davidhein.de)
+- 📫 How to reach me: [davidhein.de](https://www.davidhein.de)
 
 ### Short CV
 
