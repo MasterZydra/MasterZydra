@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 📫 How to reach me: [you@davidhein.de](mailto:you@davidhein.de)
+
+### Short CV
+
+- 3 years Apprenticeship - IT specialist (application development)
+- 2 years as process engineer with programming language Delphi
+- Now studying applied informatics;
+
 <!--
 **MasterZydra/MasterZydra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
