@@ -6,7 +6,7 @@
 ### Short CV
 
 - 3 years Apprenticeship - IT specialist (application development)
-- 2 years as process engineer with programming language Delphi
+- 2 years experience as process engineer with programming language Delphi
 - Now studying applied informatics
 
 <!--
