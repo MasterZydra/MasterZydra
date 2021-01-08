@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: [davidhein.de](https://www.davidhein.de)
+- 📃 My website with technical topics: [techbasics.de](https://www.techbasics.de)
 - 🧰 I like to automate repetitive tasks as far as possible
 
 ### Short CV
