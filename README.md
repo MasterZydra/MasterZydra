@@ -1,14 +1,16 @@
 ### Hi there 👋
-
 - 📫 How to reach me: [davidhein.de](https://www.davidhein.de)
 - 📃 My website with technical topics: [techbasics.de](https://www.techbasics.de)
 - 🧰 I like to automate repetitive tasks as far as possible
 
-### Short CV
-
+**Short CV**  
 - 3 years Apprenticeship - IT specialist (application development)
 - 2 years experience as process engineer with programming language Delphi
 - Now studying applied informatics
+
+**Interests**  
+- Go
+- CI/CD
 
 <!--
 **MasterZydra/MasterZydra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
