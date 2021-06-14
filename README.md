@@ -11,6 +11,7 @@
 **Interests**  
 - Go
 - CI/CD
+- Software Architecture
 
 <!--
 **MasterZydra/MasterZydra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
