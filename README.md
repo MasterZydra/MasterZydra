@@ -11,6 +11,7 @@
 
 **Interests**  
 - Go
+- Magento2 (PHP)
 - CI/CD
 - Software Architecture
 
