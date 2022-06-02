@@ -10,9 +10,9 @@
 - Now working as business software developer
 
 **Interests**  
-- Go
-- Magento2 (PHP)
+- PHP (Magento2)
 - CI/CD
+- Go
 - Software Architecture
 
 <!--
