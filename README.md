@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MasterZydra&label=Profile%20views&color=0e75b6&style=flat" alt="MasterZydra" /> </p>
+
 ### Hi there 👋
 - 📫 How to reach me: [davidhein.de](https://www.davidhein.de)
 - 📃 My website with technical topics: [techbasics.de](https://www.techbasics.de)
