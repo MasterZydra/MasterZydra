@@ -13,7 +13,7 @@
 | `1 year and ongoing` | Business software developer | PHP (Magento2), JS |
 
 **Interests**  
-PHP (Magento2) &nbsp;&nbsp;-&nbsp;&nbsp; CI/CD &nbsp;&nbsp;-&nbsp;&nbsp; Go &nbsp;&nbsp;-&nbsp;&nbsp; Software Architecture
+PHP (Magento2) &nbsp;&nbsp;-&nbsp;&nbsp; JavaScript &nbsp;&nbsp;-&nbsp;&nbsp; CI/CD &nbsp;&nbsp;-&nbsp;&nbsp; Software Architecture
 
 <!-- ![MasterZydra's github stats](https://github-readme-stats.vercel.app/api?username=MasterZydra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=22272e)
 -->
