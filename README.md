@@ -13,4 +13,4 @@
 | `1 year and ongoing` | Business software developer | PHP (Magento2), JS |
 
 **Interests**  
-PHP (Magento2) &nbsp;&nbsp;-&nbsp;&nbsp; JavaScript &nbsp;&nbsp;-&nbsp;&nbsp; CI/CD &nbsp;&nbsp;-&nbsp;&nbsp; Software Architecture
+PHP (Magento2, Laravel) &nbsp;&nbsp;-&nbsp;&nbsp; JavaScript (Vue) &nbsp;&nbsp;-&nbsp;&nbsp; CI/CD &nbsp;&nbsp;-&nbsp;&nbsp; Software Architecture
